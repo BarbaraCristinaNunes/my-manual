@@ -64,7 +64,9 @@ In this image I use $git status to see the files I changed.
 
 I did a $git add *filename* and a $git commit -m *"message"* to save the changes. 
 
- Then I gave a $git push to send to the remote repository   
+ Then I gave a $git push to send to the remote repository
+ 
+ [1](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
 ## Doing MERGE   
 
@@ -81,3 +83,9 @@ Then $ git merge *name of the branch I want to merge with main*
 // delete branch locally git branch -d *localBranchName*
 
 // delete branch remotely git push origin --delete *remoteBranchName*
+
+[2](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+
+## How to create a good README.md
+
+[3](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
