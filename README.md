@@ -28,7 +28,7 @@ After creating the README.md file, I gave it a git status and the file appears i
 
 Files appear in red on the terminal because they have not been confirmed and have not yet been added (they are in Untracked status). This means that changes made to these files have not yet been saved. So I need to run git add and git commit to save these changes. After these steps, the file turns green on the terminal. 
 
-(/img/img1.png)
+![img1](/img/img1.png)
 
 Now I have a repository with a file inside  
 
@@ -40,7 +40,7 @@ How to clone a repository
 
 When I want to clone a repository I go to GitHub, open my repository and select the Code button. In the Code button I select SSH and copy the link that is there. 
 
-(/img/img2.png)
+![img2](/img/img2.png)
 
 Then I go to my terminal and write:  
 
@@ -56,9 +56,9 @@ Sending the branch to the remote
 
 $ git push origin *branch name*
 
-(/img/img3.png)
+![img3](/img/img3.png)
 
-(/img/img4.png)
+![img4](/img/img4.png)
 
 In this image I use $git status to see the files I changed.  
 
