@@ -89,3 +89,8 @@ Then $ git merge *name of the branch I want to merge with main*
 ## How to create a good README.md
 
 [3](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+
+
+https://www.wikihow.com/Create-and-Delete-Files-and-Directories-from-Windows-Command-Prompt
+how to create folders and files with and without content
+cat syntax -> https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/
