@@ -95,3 +95,4 @@ https://www.wikihow.com/Create-and-Delete-Files-and-Directories-from-Windows-Com
 how to create folders and files with and without content
 cat syntax -> https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/
 https://medium.com/@akshaykotawar86/difference-between-o-d2697a1f48f4
+https://mally.stanford.edu/~sr/computing/basic-unix.html
