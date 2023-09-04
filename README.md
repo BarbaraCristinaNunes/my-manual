@@ -94,3 +94,4 @@ Then $ git merge *name of the branch I want to merge with main*
 https://www.wikihow.com/Create-and-Delete-Files-and-Directories-from-Windows-Command-Prompt
 how to create folders and files with and without content
 cat syntax -> https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/
+https://medium.com/@akshaykotawar86/difference-between-o-d2697a1f48f4
